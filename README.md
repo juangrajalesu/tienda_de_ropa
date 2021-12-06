@@ -7,5 +7,5 @@ Scripts para ejecutar el proyecto:
 1) npm i (instalar dependencias)
 2) npm start (iniciar el proyecto de REACT)
 
-Link del proyecto *tienda de ropa* :
-https://github.com/juangrajalesu/tienda_de_ropa
+Link del proyecto *API tienda de ropa* :
+https://github.com/juangrajalesu/api_tienda_de_ropa
